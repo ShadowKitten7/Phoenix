@@ -1,2 +1,2 @@
 # Phoenix
-An IDE for Java, made with Java
+An IDE for Java, made with Java Swing
